@@ -1,0 +1,3 @@
+Steps to run program : 
+1) Run the file INITIATION.py by double clicking on it
+2) Open Jupyter Notebook and run APPLICATION.ipynb in it
